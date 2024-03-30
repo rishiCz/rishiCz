@@ -9,7 +9,7 @@ I am a software developer with 1+ years of experience, thriving to learn somethi
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Here](http://rishicz.github.io/portfolio/)
 * ✉️  You can contact me at [rishimalik97@gmail.com](mailto:rishimalik97@gmail.com)
-* 🧠  I'm learning NextJS
+* 🧠  I'm learning Angular
 
 ### Skills
 
