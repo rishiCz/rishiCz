@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rishi Malik
 ===================================================================================================================================
 
-Software Delveloper
+Software Engineer
 -------------------
 
-I am a software Engineer with 2+ years of experience, thriving to learn something new always!
+I am a software Engineer with 2+ years of experience, ready to learn something new always!
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Here](http://rishicz.github.io/portfolio/)
